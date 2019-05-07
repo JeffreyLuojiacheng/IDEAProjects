@@ -9,5 +9,6 @@ public class MyStack1 {
         System.out.println("hello");
         System.out.println("github");
         System.out.println("thanks");
+        System.out.println("主机测试");
     }
 }
